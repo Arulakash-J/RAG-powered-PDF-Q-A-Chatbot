@@ -74,5 +74,5 @@ PDF Assistant is a Retrieval-Augmented Generation (RAG) chatbot that allows user
 5. **Run the application**
 
    ```
-   streamlit run app.py
+   streamlit run main.py
    ```
